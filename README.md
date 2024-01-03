@@ -105,3 +105,17 @@ docker system prune
 docker logs container-name
 ```
 
+
+
+
+# Docker Commands 
+'''
+docker -v
+'''
+ 
+'''
+docker run -it ubuntu
+'''
+
+
+
